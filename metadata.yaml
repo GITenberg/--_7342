@@ -1,0 +1,24 @@
+_repo: --_7342
+_version: 0.0.1
+alternative_title: Shi Pin
+creator:
+  author:
+    agent_name: Zhong, Rong, active 502-519
+    alias: 鍾嶸
+    gutenberg_agent_id: '2431'
+    url: http://www.gutenberg.org/2009/agents/2431
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7342'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Chinese poetry -- History and criticism'
+- GITenberg
+title: 詩品
+url: http://www.gutenberg.org/ebooks/7342
